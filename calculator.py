@@ -25,13 +25,11 @@ def main():
         print('{} - {} = '.format(number_1, number_2))
         print(number_1 - number_2)
         input('Press "Enter" for new operation :) ')
-        input('Press "Enter" for new operation :) ')
         main()
 
     elif operation == '*':
         print('{} * {} = '.format(number_1, number_2))
         print(number_1 * number_2)
-        input('Press "Enter" for new operation :) ')
         input('Press "Enter" for new operation :) ')
         main()
 
@@ -39,12 +37,10 @@ def main():
         print('{} / {} = '.format(number_1, number_2))
         print(number_1 / number_2)
         input('Press "Enter" for new operation :) ')
-        input('Press "Enter" for new operation :) ')
         main()
 
     elif operation == '**':
         print(number_1 ** number_2)
-        input('Press "Enter" for new operation :) ')
         input('Press "Enter" for new operation :) ')
         main()
 
