@@ -1,5 +1,2 @@
-# UPDATE BRANCH
-## please read
-
-Trying to give the calculator the ability to run from the start so you dont have to manually re-run the program 
-for each calculation
+# README
+## This is the main, please open a new branch before you commit any changes to the code.
